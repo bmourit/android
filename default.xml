@@ -16,7 +16,7 @@
            fetch="https://github.com/omnirom" />
            
   <remote  name="bmourit"
-           fetch="https://github.com/bmourit"
+           fetch="https://github.com/bmourit" />
 
   <default revision="refs/tags/android-4.4.2_r1"
            remote="aosp"
